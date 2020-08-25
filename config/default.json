@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://steinarv:samba123@contactsapp.hmmfo.mongodb.net/contactsapp?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
